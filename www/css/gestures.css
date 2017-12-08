@@ -14,7 +14,7 @@ body.oscuro{
 button{
   background-color: #7fba67;
   color: #ffffff;
-  border: none;
+  border: true;
   width: 100%;
   padding: 30px;
   font-size: 1em;
